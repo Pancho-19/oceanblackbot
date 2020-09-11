@@ -10,9 +10,9 @@
 
   "scripts": {
 
-    "start": "node bot.js"
+    "start": "node bot.js",
 
-   "engines": {
+  "engines": {
     "node": "12.x"
 
   },
